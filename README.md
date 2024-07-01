@@ -1,3 +1,7 @@
+# Информация для разработчиков
+Проект (веб клиент) будет задействован для грантовой аналитики
+Предполагаемая связка Postgres -> Node.js -> React -> User browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
